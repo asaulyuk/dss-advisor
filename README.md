@@ -1,4 +1,4 @@
-# DSS Advisor
+# DSS Skill
 
 A general-purpose Decision Support System (DSS) skill for Claude, grounded in four canonical DSS texts.
 
